@@ -1,4 +1,4 @@
-# Financial dashboard with streamlit
+# FINANCIAL DASHBOARD WITH STREAMLIT
 
 
 <img width="1431" alt="Screenshot 2023-11-22 at 19 30 05" src="https://github.com/audran-lemaitre/Python-for-Finance/assets/100149496/fc3ec418-4541-451d-b15f-b3b89cc91c22">
