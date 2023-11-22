@@ -7,7 +7,7 @@
 
 - [Description](#description)
 - [Technologies](#technologies)
-- [How To Use](#how-to-use)
+- [Setting Up](#setting-up)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -28,8 +28,6 @@ The financial dashboard is composed of 4 applications:
 - Streamlit (Dashboard Framework)
 
 ---
-
-## How To Use
 
 ## Setting Up
 ### 1. Clone/Download the Repository
