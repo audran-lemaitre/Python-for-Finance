@@ -1,5 +1,6 @@
 # Financial dashboard with streamlit
 
+
 <img width="1431" alt="Screenshot 2023-11-22 at 19 30 05" src="https://github.com/audran-lemaitre/Python-for-Finance/assets/100149496/fc3ec418-4541-451d-b15f-b3b89cc91c22">
 
 ### Table of Contents
@@ -29,8 +30,6 @@ The financial dashboard is composed of 4 applications:
 ---
 
 ## How To Use
-
-#### Installation
 
 ## Setting Up
 ### 1. Clone/Download the Repository
